@@ -37,6 +37,7 @@ El script realiza las siguientes tareas:
     console.log("Correo:", email);
     console.log("Código postal:", codigo_postal);
     ```
-![png-transparent-javascript-logo-javascript-logo-language-algorithm-app-3d-icon](https://github.com/user-attachments/assets/423c0155-2d08-4871-b040-02192eb8fb2e)
+![pngwing com (3)](https://github.com/user-attachments/assets/9d83717e-75a8-45db-b354-6b85c654711d)
+
 
 
