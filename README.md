@@ -1,6 +1,7 @@
-# Perfil de Usuario
+# Perfil de Usuario 👤⚙️
 
-Este repositorio contiene un sencillo script para gestionar y actualizar el perfil de un usuario. 
+Este repositorio contiene un sencillo script para gestionar y actualizar el perfil de un usuario. ![pngwing com (3)](https://github.com/user-attachments/assets/477fe444-04b8-4347-8a38-4b39ba3c6fee)
+
 
 ## Variables del Usuario
 
@@ -37,7 +38,7 @@ El script realiza las siguientes tareas:
     console.log("Correo:", email);
     console.log("Código postal:", codigo_postal);
     ```
-![pngwing com (3)](https://github.com/user-attachments/assets/9d83717e-75a8-45db-b354-6b85c654711d)
+
 
 
 
