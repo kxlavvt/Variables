@@ -1,6 +1,6 @@
 # Perfil de Usuario 👤⚙️
 
-Este repositorio contiene un sencillo script para gestionar y actualizar el perfil de un usuario. <img src="https://github.com/user-attachments/assets/477fe444-04b8-4347-8a38-4b39ba3c6fee" width="250">
+Este repositorio contiene un sencillo script para gestionar y actualizar el perfil de un usuario. <img src="https://github.com/user-attachments/assets/477fe444-04b8-4347-8a38-4b39ba3c6fee" width="250" display="rigth">
 
 
 ## Variables del Usuario
