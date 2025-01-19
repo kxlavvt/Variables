@@ -11,7 +11,7 @@ Hemos definido las siguientes variables para nuestro perfil de usuario:
 
 - **Nombre**: Marcos
 - **Edad**: 25
-- **Correo electrónico**: marcos@gmail.com (email ficticio)
+- **Correo electrónico**: marcos@gmail.com `email ficticio`
 - **Código postal**: 28001
 
 ## Funcionalidades del Script
