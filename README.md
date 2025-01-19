@@ -1,6 +1,7 @@
 # Perfil de Usuario 👤⚙️
 
-Este repositorio contiene un sencillo script para gestionar y actualizar el perfil de un usuario. ![pngwing com (3)](https://github.com/user-attachments/assets/477fe444-04b8-4347-8a38-4b39ba3c6fee)
+Este repositorio contiene un sencillo script para gestionar y actualizar el perfil de un usuario. 
+![pngwing com (3)](<img src="https://github.com/user-attachments/assets/477fe444-04b8-4347-8a38-4b39ba3c6fee" width="400">
 
 
 ## Variables del Usuario
